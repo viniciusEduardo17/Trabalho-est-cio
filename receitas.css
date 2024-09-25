@@ -1,0 +1,35 @@
+
+
+.container{
+    
+    margin-top: 10%;
+
+}
+
+h4{
+    text-align: center;
+    margin-top: 3%;
+
+}
+
+.col-sm{
+    background-color: rgb(255, 246, 196);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: justify;
+
+}
+
+.imgdiv{
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 200px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+
+
+.ulrecei {
+    margin-left: 100px;
+}

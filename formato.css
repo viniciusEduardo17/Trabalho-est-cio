@@ -1,0 +1,123 @@
+
+.navbar{
+   background-color: #000000;
+}
+
+.botaohome{
+    margin-top: 30px;
+    width: 30%;
+}
+
+.navbar a{
+    
+  margin: 20px;  
+    
+}
+
+
+body{
+    background: rgb(240, 201, 116);
+}
+
+h1{
+    margin-bottom: 30px;
+}
+
+.content{
+    padding-top: 18%;
+    margin-left: 3%;  
+    color: rgb(121, 89, 1); 
+}
+
+h2{
+    text-align: justify;
+}
+
+
+.footer{
+    padding: 40 px 0;
+    background-color: #4b2d00;
+   font-weight: bold;
+   color: rgb(212, 212, 212);
+   margin-top:15%;
+   height: 150px;
+   text-align: center;
+}
+
+
+.footer2{
+    padding: 40 px 0;
+    background-color: #4b2d00;
+   font-weight: bold;
+   color: rgb(212, 212, 212);
+   margin-top:2%;
+   height: 130px;
+   text-align: center;
+}
+
+.footer3{
+    padding: 40 px 0;
+    background-color: #4b2d00;
+    font-weight: bold;
+    color: rgb(212, 212, 212);
+   
+    height: 120px;
+    text-align: center;
+}
+
+p{
+    padding-top: 27px;
+}
+
+.logotext{
+    display: flex;
+    align-items: center;
+    height: 50px;
+     width: 50px;
+  
+}
+
+/* CADASTRO */
+
+.form-group {
+    
+    width: 65%;
+    margin: 10px;
+    
+}
+
+.form-control{
+    border-radius:10px ;
+    height: 50px;
+}
+
+
+form{
+    margin-top: 7%;
+    margin-left: 20%;
+}
+
+.cep{
+    width: 20%;
+}
+
+.btn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 50%;
+    text-align: center;
+    margin-left: 10%;
+
+}
+
+.titulocads{
+    color: rgb(116, 116, 116);
+    margin-left: 28%;
+    padding-bottom: 2%;
+}
+
+.col-sm-2 {
+    font-weight: bold;
+}
+
+
